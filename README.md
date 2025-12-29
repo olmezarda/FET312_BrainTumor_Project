@@ -1,8 +1,8 @@
-# 🧠 FET312 - Brain Tumor Classification Project (DevTe213)
+# FET312 - Brain Tumor Classification Project (DevTe213)
 
 This repository contains deep learning models developed for the **FET312** course to detect brain tumors using MRI images. The project aims to compare the performance and accuracy of custom-designed CNN architectures against State-of-the-Art transfer learning models.
 
-### 🎥 Project Presentation Video
+### Project Presentation Video
 You can watch our project presentation video and model comparisons by clicking the image below:
 
 [![Presentation Video](https://img.youtube.com/vi/5-OFyU_zyw0/0.jpg)](https://www.youtube.com/watch?v=5-OFyU_zyw0)
