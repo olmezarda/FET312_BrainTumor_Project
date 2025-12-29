@@ -1,8 +1,8 @@
-# 🧠 FET312 - Beyin Tümörü Sınıflandırma Projesi (DevTe213)
+# FET312 - Beyin Tümörü Sınıflandırma Projesi (DevTe213)
 
 Bu proje, **FET312** dersi kapsamında geliştirilen ve MRI görüntülerini kullanarak beyin tümörü tespiti yapan derin öğrenme modellerini içerir. Çalışma, sıfırdan tasarlanan CNN mimarileri ile son teknoloji (State-of-the-Art) transfer öğrenme modellerinin performanslarını ve doğruluk oranlarını karşılaştırmayı amaçlamaktadır.
 
-### 🎥 Proje Sunum Videosu
+### Proje Sunum Videosu
 Proje sunum videomuzu ve model karşılaştırmalarımızı aşağıdaki görsele tıklayarak izleyebilirsiniz:
 
 [![Sunum Videosu](https://img.youtube.com/vi/5-OFyU_zyw0/0.jpg)](https://www.youtube.com/watch?v=5-OFyU_zyw0)
